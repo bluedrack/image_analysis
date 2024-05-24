@@ -1,0 +1,1545 @@
+[
+    {
+        "filename": "0-0.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "0-1.jpg",
+        "value": "10",
+        "changed": true
+    },
+    {
+        "filename": "0-2.jpg",
+        "value": "10",
+        "changed": true
+    },
+    {
+        "filename": "0-3.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "0-4.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "1-5.jpg",
+        "value": "2",
+        "changed": true
+    },
+    {
+        "filename": "1-6.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "1-7.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "1-8.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "10-55.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "10-56.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "10-57.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "10-58.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "10-59.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "10-60.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "10-61.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "10-62.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "10-63.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "11-64.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "11-65.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "11-66.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "11-67.jpg",
+        "value": "3",
+        "changed": true
+    },
+    {
+        "filename": "11-68.jpg",
+        "value": "6",
+        "changed": true
+    },
+    {
+        "filename": "11-69.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "11-70.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "12-71.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "12-72.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "12-73.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "12-74.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "12-75.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "12-76.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "13-77.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "13-78.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "13-79.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "13-80.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "13-81.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "13-82.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "13-83.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "13-84.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "13-85.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "13-86.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "13-87.jpg",
+        "value": "6",
+        "changed": true
+    },
+    {
+        "filename": "14-88.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "14-89.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "14-90.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "14-91.jpg",
+        "value": "3",
+        "changed": true
+    },
+    {
+        "filename": "14-92.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "14-93.jpg",
+        "value": "3",
+        "changed": true
+    },
+    {
+        "filename": "14-94.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "14-95.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "14-96.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "15-100.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "15-101.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "15-102.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "15-103.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "15-104.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "15-97.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "15-98.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "15-99.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "16-105.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "16-106.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "16-107.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "16-108.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "16-109.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "17-110.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "17-111.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "17-112.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "17-113.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "18-114.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "18-115.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "18-116.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "18-117.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "18-118.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "18-119.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "18-120.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "18-121.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "19-122.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "19-123.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "19-124.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "19-125.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "2-10.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "2-11.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "2-12.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "2-13.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "2-14.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "2-15.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "2-16.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "2-9.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "20-126.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "20-127.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "3-17.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "3-18.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "3-19.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "3-20.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "3-21.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "3-22.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "4-23.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "4-24.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "4-25.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "4-26.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "4-27.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "4-28.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "4-29.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "4-30.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "5-31.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "5-32.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "5-33.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "5-34.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "5-35.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "6-36.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "6-37.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "6-38.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "6-39.jpg",
+        "value": "1",
+        "changed": true
+    },
+    {
+        "filename": "6-40.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "7-41.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "7-42.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "7-43.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "7-44.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "8-45.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "8-46.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "8-47.jpg",
+        "value": "3",
+        "changed": true
+    },
+    {
+        "filename": "8-48.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "8-49.jpg",
+        "value": "3",
+        "changed": true
+    },
+    {
+        "filename": "9-50.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "9-51.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "9-52.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "9-53.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "9-54.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "20-128.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "20-129.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "21-130.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "21-131.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "21-132.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "22-133.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "22-134.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "22-135.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "22-136.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "23-137.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "23-138.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "23-139.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "24-140.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "24-141.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "24-142.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "25-143.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "25-144.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "25-145.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "25-146.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "25-147.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "25-148.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "26-149.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "27-150.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "27-151.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "27-152.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "28-153.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "28-154.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "28-155.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "28-156.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "28-157.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "28-158.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "28-159.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "28-160.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "29-161.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "29-162.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "29-163.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "29-164.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "29-165.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "29-166.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "29-167.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "29-168.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "29-169.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "30-170.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "30-171.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "30-172.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "30-173.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "30-174.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "30-175.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "30-176.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "30-177.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "30-178.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "30-179.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "30-180.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "30-181.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "30-182.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "30-183.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "30-184.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "30-185.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "30-186.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "31-187.jpg",
+        "value": "1",
+        "changed": true
+    },
+    {
+        "filename": "31-188.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "31-189.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "32-190.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "32-191.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "32-192.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "32-193.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "33-194.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "33-195.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "33-196.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "33-197.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "34-198.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "34-199.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "34-200.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "34-201.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "34-202.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "35-203.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "36-204.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "36-205.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "36-206.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "36-207.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "36-208.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "37-209.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "37-210.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "37-211.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "37-212.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "38-213.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "38-214.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "38-215.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "38-216.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "39-217.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "39-218.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "39-219.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "40-220.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "40-221.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "40-222.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "40-223.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "41-224.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "41-225.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "41-226.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "41-227.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "42-228.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "42-229.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "42-230.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "42-231.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "42-232.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "43-233.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "43-234.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "44-235.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "44-236.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "44-237.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "45-238.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "45-239.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "45-240.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "45-241.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "46-242.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "46-243.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "47-244.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "47-245.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "47-246.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "48-247.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "48-248.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "48-249.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "48-250.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "49-251.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "49-252.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "49-253.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "50-254.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "50-255.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "50-256.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "50-257.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "50-258.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "51-259.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "51-260.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "51-261.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "51-262.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "52-263.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "53-264.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "53-265.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "53-266.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "53-267.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "53-268.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "53-269.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "53-270.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "53-271.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "54-272.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "54-273.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "54-274.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "55-275.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "55-276.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "55-277.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "55-278.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "55-279.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "56-280.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "56-281.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "56-282.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "56-283.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "56-284.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "57-285.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "57-286.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "58-287.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "58-288.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "58-289.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "58-290.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "59-291.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "60-292.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "60-293.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "60-294.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "60-295.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "61-296.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "61-297.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "61-298.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "62-299.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "62-300.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "62-301.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "62-302.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "62-303.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "62-304.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "62-305.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "63-306.jpg",
+        "value": "1",
+        "changed": true
+    },
+    {
+        "filename": "63-307.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "63-308.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "63-309.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "63-310.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "64-311.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "64-312.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "64-313.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "64-314.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "64-315.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "65-316.jpg",
+        "value": "1"
+    },
+    {
+        "filename": "65-317.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "65-318.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "65-319.jpg",
+        "value": "9",
+        "changed": true
+    },
+    {
+        "filename": "65-320.jpg",
+        "value": "6"
+    },
+    {
+        "filename": "66-321.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "66-322.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "66-323.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "66-324.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "67-325.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "67-326.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "67-327.jpg",
+        "value": "4",
+        "changed": true
+    },
+    {
+        "filename": "67-328.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "68-329.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "68-330.jpg",
+        "value": "11"
+    },
+    {
+        "filename": "68-331.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "68-332.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "68-333.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "68-334.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "69-335.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "69-336.jpg",
+        "value": "3"
+    },
+    {
+        "filename": "69-337.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "69-338.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "69-339.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "70-340.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "70-341.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "70-342.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "70-343.jpg",
+        "value": "9"
+    },
+    {
+        "filename": "70-344.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "70-345.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "70-346.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "70-347.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "71-348.jpg",
+        "value": "2"
+    },
+    {
+        "filename": "71-349.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "71-350.jpg",
+        "value": "4"
+    },
+    {
+        "filename": "71-351.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "71-352.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "71-353.jpg",
+        "value": "14"
+    },
+    {
+        "filename": "72-354.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "73-355.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "73-356.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "73-357.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "73-358.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "73-359.jpg",
+        "value": "12"
+    },
+    {
+        "filename": "73-360.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "74-361.jpg",
+        "value": "13"
+    },
+    {
+        "filename": "74-362.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "74-363.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "75-364.jpg",
+        "value": "10"
+    },
+    {
+        "filename": "75-365.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "75-366.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "76-367.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "76-368.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "76-369.jpg",
+        "value": "5"
+    },
+    {
+        "filename": "77-370.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "77-371.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "77-372.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "78-373.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "78-374.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "78-375.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "79-376.jpg",
+        "value": "7"
+    },
+    {
+        "filename": "79-377.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "79-378.jpg",
+        "value": "8"
+    },
+    {
+        "filename": "80-379.jpg",
+        "value": "0"
+    },
+    {
+        "filename": "80-380.jpg",
+        "value": "15"
+    },
+    {
+        "filename": "80-381.jpg",
+        "value": "9"
+    }
+]

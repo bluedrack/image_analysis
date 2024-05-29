@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>L1010436_JPG.rf.e5ce8fccc85c2d1dc1f9e87300ef806a.jpg</filename>
+	<path>L1010436_JPG.rf.e5ce8fccc85c2d1dc1f9e87300ef806a.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>6000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coins</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>2606</xmin>
+			<xmax>3128</xmax>
+			<ymin>1906</ymin>
+			<ymax>2433</ymax>
+		</bndbox>
+	</object>
+</annotation>
